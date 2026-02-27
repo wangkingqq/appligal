@@ -1,11 +1,11 @@
 # End User License Agreement (EULA)
-**Last Updated:** [Insert Date, e.g., February 25, 2026]  
-**Licensee:** [Your Name/Company Name]
+**Last Updated:** February 25, 2026
+**Licensee:** wang kai
 
-By downloading, installing, or using [Your App Name] (the "App"), a Zi Wei Dou Shu (Purple Star Astrology) dApp built on the Solana blockchain, you ("User") agree to be bound by the terms and conditions of this End User License Agreement (the "Agreement").
+By downloading, installing, or using fate seeker (the "App"), a Zi Wei Dou Shu (Purple Star Astrology) dApp built on the Solana blockchain, you ("User") agree to be bound by the terms and conditions of this End User License Agreement (the "Agreement").
 
 ## 1. License Grant
-Subject to your compliance with this Agreement, [Your Name/Company Name] ("Licensor") grants you a non-exclusive, non-transferable, revocable license to use the App solely for your personal, non-commercial use.
+Subject to your compliance with this Agreement, wang kai ("Licensor") grants you a non-exclusive, non-transferable, revocable license to use the App solely for your personal, non-commercial use.
 
 ## 2. Nature of Content
 The App provides content based on the ancient Chinese art of Zi Wei Dou Shu (Purple Star Astrology). 
