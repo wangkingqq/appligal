@@ -1,7 +1,7 @@
 # Privacy Policy
-**Last Updated:** [Insert Date]
+**Last Updated:** 02/27/2026
 
-[Your Name/Company Name] ("we," "us," or "our") operates the [Your App Name] dApp (the "App"), a Zi Wei Dou Shu (Purple Star Astrology) application built on the Solana blockchain. We are committed to protecting the privacy and security of the information you provide to us.
+wang kai ("we," "us," or "our") operates the fate seeker dApp (the "App"), a Zi Wei Dou Shu (Purple Star Astrology) application built on the Solana blockchain. We are committed to protecting the privacy and security of the information you provide to us.
 
 > ⚠️ **Important:** This App provides astrological content for entertainment purposes only. It is not a substitute for professional legal, financial, or medical advice.
 
@@ -45,7 +45,7 @@ You have the right to:
 - Request correction or deletion of your data.
 - Opt-out of non-essential data collection.
 
-To exercise these rights, please contact us at [Your Email Address].
+To exercise these rights, please contact us at wangkingqq@gmail.com.
 
 ## 7. Contact Us
 For any questions regarding this policy, please reach out to:  
