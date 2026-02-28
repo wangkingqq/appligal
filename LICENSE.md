@@ -2,13 +2,13 @@
 **Last Updated:** February 25, 2026
 **Licensee:** wang kai
 
-By downloading, installing, or using fate seeker (the "App"), a Zi Wei Dou Shu (Purple Star Astrology) dApp built on the Solana blockchain, you ("User") agree to be bound by the terms and conditions of this End User License Agreement (the "Agreement").
+By downloading, installing, or using this Dapp (the "App"), a  dApp built on the Solana blockchain, you ("User") agree to be bound by the terms and conditions of this End User License Agreement (the "Agreement").
 
 ## 1. License Grant
 Subject to your compliance with this Agreement, wang kai ("Licensor") grants you a non-exclusive, non-transferable, revocable license to use the App solely for your personal, non-commercial use.
 
 ## 2. Nature of Content
-The App provides content based on the ancient Chinese art of Zi Wei Dou Shu (Purple Star Astrology). 
+The App provides content based on the ancient Chinese art of this app. 
 
 > **ALL CONTENT PROVIDED BY THE APP IS FOR ENTERTAINMENT PURPOSES ONLY.**  
 > It is not intended to be a substitute for professional advice, including but not limited to legal, financial, medical, or psychological advice. The Licensor makes no guarantees or warranties regarding the accuracy, completeness, or applicability of the astrological readings.
