@@ -4,7 +4,7 @@
 Copyright © 2026 wang kai. All rights reserved.
 
 ## 1. Ownership
-All content, design, code, graphics, text, and materials contained within the fate seeker dApp (the "App") are protected by international copyright laws and treaties.
+All content, design, code, graphics, text, and materials contained within the dApp (the "App") are protected by international copyright laws and treaties.
 
 ## 2. Restrictions
 Unauthorized reproduction, distribution, modification, public display, or creation of derivative works from any part of the App is strictly prohibited without prior written consent from the copyright holder.
