@@ -49,5 +49,5 @@ To exercise these rights, please contact us at wangkingqq@gmail.com.
 
 ## 7. Contact Us
 For any questions regarding this policy, please reach out to:  
-[Your Name/Company Name]  
-Email: [Your Email Address]
+wang kai
+Email: wangkingqq@gmail.com
